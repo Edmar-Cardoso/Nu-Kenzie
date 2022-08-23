@@ -2,7 +2,7 @@
 
 Este é um projeto que simula um app de finanças onde você pode registrar uma entrada ou saída em sua conta, com isso vendo o total e os registros feitos no mês.
 
-Ele visa a parte front-end da aplicação, então não possui conexão alguma com nenhum banco de dados sendo assim, quando voçê recarregar a página os registros feitos
+Ele visa a parte front-end da aplicação, então não possui conexão alguma com nenhum banco de dados sendo assim, quando você recarregar a página os registros feitos
 serão apagados.
 
 ## Visite o site!!
