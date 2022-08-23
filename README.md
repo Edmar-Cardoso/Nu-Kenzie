@@ -14,14 +14,15 @@ Essa é a landingPage do projeto!
 ![NuKenzieDashboard](https://user-images.githubusercontent.com/103132427/186161410-286328c2-7b9e-4e7f-94f3-79c225f62e2d.png)
 Essa é a homePage do projeto!
 
-###### Linguagem usada:
+###### Tecnologias usadas:
 - React
 
-###### Bibliotecas usadas:
+###### Bibliotecas e hooks usados:
 - react-hot-toast
 - react-dom
 - react-icons
 - react-router-dom
+- useState
 
 ###### Créditos:
 - Layou e Figma criados pela Kenzie Academy Brasil
