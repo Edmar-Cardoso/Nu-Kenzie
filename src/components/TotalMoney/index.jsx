@@ -1,3 +1,4 @@
+import { motion } from "framer-motion";
 import "./style.css";
 
 const TotalMoney = ({ listTransactions }) => {
@@ -20,10 +21,16 @@ const TotalMoney = ({ listTransactions }) => {
 
   return listTransactions.length > 0 ? (
     <div className="containerTotal">
-      <div className="totalInformation">
-        <span className="spanLetterTotal">Valor total</span>
-        <span className="spanNumbersTotal">R$ {calculationTotal()},00</span>
-      </div>
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ duration: 0.6 }}
+      >
+        <div className="totalInformation">
+          <span className="spanLetterTotal">Valor total</span>
+          <span className="spanNumbersTotal">R$ {calculationTotal()},00</span>
+        </div>
+      </motion.div>
     </div>
   ) : (
     <div></div>
