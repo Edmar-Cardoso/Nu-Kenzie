@@ -8,11 +8,14 @@ serão apagados.
 ## Visite o site!!
 https://nu-kenzie-personal.vercel.app/
 
-![NuKenzieHomepage](https://user-images.githubusercontent.com/103132427/186161057-cf9c4d99-49e9-4a2d-89a8-89282de50369.png)
-Essa é a landingPage do projeto!
+Essa é a landingPage do projeto:
 
-![NuKenzieDashboard](https://user-images.githubusercontent.com/103132427/186161410-286328c2-7b9e-4e7f-94f3-79c225f62e2d.png)
-Essa é a homePage do projeto!
+<img src="https://user-images.githubusercontent.com/103132427/186161057-cf9c4d99-49e9-4a2d-89a8-89282de50369.png" alt="drawing" style="width:838px;"/>
+
+Essa é a homePage do projeto:
+
+https://user-images.githubusercontent.com/103132427/189431127-e9e41f09-651c-4295-953b-b1ca3380e4d1.mp4
+
 
 ###### Tecnologias usadas:
 - React
@@ -23,6 +26,7 @@ Essa é a homePage do projeto!
 - react-icons
 - react-router-dom
 - useState
+- framer-motion
 
 ###### Créditos:
 - Layou e Figma criados pela Kenzie Academy Brasil
