@@ -6,6 +6,7 @@ Ele visa a parte front-end da aplicação, então não possui conexão alguma co
 serão apagados.
 
 ## Visite o site!!
+
 https://nu-kenzie-personal.vercel.app/
 
 Essa é a landingPage do projeto:
@@ -16,11 +17,40 @@ Essa é a homePage do projeto:
 
 https://user-images.githubusercontent.com/103132427/189431127-e9e41f09-651c-4295-953b-b1ca3380e4d1.mp4
 
+## Rode o projeto na sua máquina:
+
+#### Pré-requisitos:
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+
+- [Git](https://git-scm.com/downloads)
+- [Node.js](https://nodejs.org/en/download/)
+- [Yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
+
+#### Rodando o projeto:
+
+```bash
+# Clone este repositório
+$ git clone <git@github.com:Edmar-Cardoso/Nu-Kenzie.git>
+
+#Acesse a pasta do projeto no terminal/cmd
+$ cd nome da pasta onde o projeto foi clonado
+
+#Instale as dependêcias
+$ yarn
+
+#Execute a aplicação em modo de desenvolvimento
+$ yarn start
+
+#O servidor iniciará na porta 3000
+```
 
 ###### Tecnologias usadas:
+
 - React
 
 ###### Bibliotecas e hooks usados:
+
 - react-hot-toast
 - react-dom
 - react-icons
@@ -29,4 +59,5 @@ https://user-images.githubusercontent.com/103132427/189431127-e9e41f09-651c-4295
 - framer-motion
 
 ###### Créditos:
+
 - Layou e Figma criados pela Kenzie Academy Brasil
