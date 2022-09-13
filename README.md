@@ -31,10 +31,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone <git@github.com:Edmar-Cardoso/Nu-Kenzie.git>
+$ git clone git@github.com:Edmar-Cardoso/Nu-Kenzie.git
 
 #Acesse a pasta do projeto no terminal/cmd
-$ cd nome da pasta onde o projeto foi clonado
+$ cd Nu-Kenzie
 
 #Instale as dependêcias
 $ yarn
