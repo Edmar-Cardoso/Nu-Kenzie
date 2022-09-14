@@ -61,3 +61,4 @@ $ yarn start
 ###### Créditos:
 
 - Layou e Figma criados pela Kenzie Academy Brasil
+- Desenvolvido por [Edmar-Cardoso](https://github.com/Edmar-Cardoso)
